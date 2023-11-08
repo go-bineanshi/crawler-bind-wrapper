@@ -37,7 +37,7 @@ func FetchBindWrapper(n int) ([]modules.ImageItem, error) {
 }
 
 func main() {
-	images, err := FetchBindWrapper(10)
+	images, err := FetchBindWrapper(1)
 	if err != nil {
 		panic(err)
 	}
