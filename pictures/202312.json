@@ -406,5 +406,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20231225": {
+        "startdate": "20231224",
+        "fullstartdate": "202312241600",
+        "enddate": "20231225",
+        "url": "/th?id=OHR.CaribouChristmas_ZH-CN6264028572_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.CaribouChristmas_ZH-CN6264028572",
+        "copyright": "驯鹿在雪中奔跑，阿拉斯加，美国 (© Michael Quinton/Minden Pictures)",
+        "copyrightlink": "https://www.bing.com/search?q=%E9%A9%AF%E9%B9%BF\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "圣诞快乐，亲爱的朋友们！",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20231224_CaribouChristmas%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "1dc629b5780b2f4ccf9a5db139af965b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
