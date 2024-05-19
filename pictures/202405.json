@@ -304,5 +304,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20240519": {
+        "startdate": "20240518",
+        "fullstartdate": "202405181600",
+        "enddate": "20240519",
+        "url": "/th?id=OHR.VernazzaItaly_ZH-CN6245826569_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.VernazzaItaly_ZH-CN6245826569",
+        "copyright": "韦尔纳扎村，五渔村，利古里亚，意大利 (© Roberto Moiola/Sysaworld/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%BA%94%E6%B8%94%E6%9D%91+%E9%9F%A6%E5%B0%94%E7%BA%B3%E6%89%8E%E6%9D%91\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "历史与大海的交汇处",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20240518_VernazzaItaly%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "3cfed09345308f06a8f883b71ffb8a6b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
