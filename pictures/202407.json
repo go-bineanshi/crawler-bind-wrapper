@@ -32,5 +32,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20240703": {
+        "startdate": "20240702",
+        "fullstartdate": "202407021600",
+        "enddate": "20240703",
+        "url": "/th?id=OHR.MeerkatManor_ZH-CN2486051161_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.MeerkatManor_ZH-CN2486051161",
+        "copyright": "猫鼬家族 (© anetapics/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E7%8C%AB%E9%BC%AC\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "等等，谁在那儿？",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20240702_MeerkatManor%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "fd070bbcdd0d4e923ec4ddd492c4e380",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
