@@ -457,5 +457,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20241028": {
+        "startdate": "20241027",
+        "fullstartdate": "202410271600",
+        "enddate": "20241028",
+        "url": "/th?id=OHR.PumpkinMist_ZH-CN0898655859_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.PumpkinMist_ZH-CN0898655859",
+        "copyright": "南瓜田，维多利亚，不列颠哥伦比亚省，加拿大 (© Shaun Cunningham/Alamy Stock Photo)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%8D%97%E7%93%9C\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "雕刻时间到了",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20241027_PumpkinMist%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "784d5ec9663052352b830d4603566ee7",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
