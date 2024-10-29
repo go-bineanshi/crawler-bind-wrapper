@@ -474,5 +474,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20241029": {
+        "startdate": "20241028",
+        "fullstartdate": "202410281600",
+        "enddate": "20241029",
+        "url": "/th?id=OHR.GreatOwl_ZH-CN1259534922_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.GreatOwl_ZH-CN1259534922",
+        "copyright": "大雕鸮 (© Mark Newman/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A7%E9%9B%95%E9%B8%AE\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "猫头鹰的叫声在萦绕",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20241028_GreatOwl%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "7cb729e403abf5d492d71de5fc334fbd",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
