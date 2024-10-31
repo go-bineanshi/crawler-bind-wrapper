@@ -508,5 +508,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20241031": {
+        "startdate": "20241030",
+        "fullstartdate": "202410301600",
+        "enddate": "20241031",
+        "url": "/th?id=OHR.GargoyleParis_ZH-CN1668628241_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.GargoyleParis_ZH-CN1668628241",
+        "copyright": "巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%87%E5%9C%A3%E8%8A%82\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "万圣节时冷冰冰的凝视",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20241030_GargoyleParis%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "a4e984a2537847aaa2fed64e38416c17",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
