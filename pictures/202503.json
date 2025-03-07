@@ -100,5 +100,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20250307": {
+        "startdate": "20250306",
+        "fullstartdate": "202503061600",
+        "enddate": "20250307",
+        "url": "/th?id=OHR.PlumBlossom_ZH-CN5888621119_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.PlumBlossom_ZH-CN5888621119",
+        "copyright": "中国的梅花 (© zhikun sun/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A2%85%E8%8A%B1\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "花开中国",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20250306_PlumBlossom%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b76ab5021d55be6c8a424f9cfa49698c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
