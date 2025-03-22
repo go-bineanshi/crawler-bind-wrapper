@@ -338,5 +338,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20250322": {
+        "startdate": "20250321",
+        "fullstartdate": "202503211600",
+        "enddate": "20250322",
+        "url": "/th?id=OHR.CenoteLilies_ZH-CN5915682591_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.CenoteLilies_ZH-CN5915682591",
+        "copyright": "尼特哈天然井水面上的睡莲，图卢姆，墨西哥 (© Franco Banfi/NPL/Minden)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E6%B0%B4%E6%97%A5\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "水的奇妙世界！",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20250321_CenoteLilies%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "6244d8f5fdceb77cc21681d4e3b2b739",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
