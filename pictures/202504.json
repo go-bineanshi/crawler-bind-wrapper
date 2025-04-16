@@ -253,5 +253,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20250416": {
+        "startdate": "20250415",
+        "fullstartdate": "202504151600",
+        "enddate": "20250416",
+        "url": "/th?id=OHR.KachinaBridge_ZH-CN3333793502_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.KachinaBridge_ZH-CN3333793502",
+        "copyright": "卡奇纳桥，天然桥国家区，犹他州，美国 (© Alan Majchrowicz/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%A4%A9%E7%84%B6%E6%A1%A5%E5%9B%BD%E5%AE%B6%E5%8C%BA\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "时光通道",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20250415_KachinaBridge%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "f868f6199f4235c3472a01fda3b584de",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
