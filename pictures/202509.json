@@ -491,5 +491,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20250930": {
+        "startdate": "20250929",
+        "fullstartdate": "202509291600",
+        "enddate": "20250930",
+        "url": "/th?id=OHR.EucalyptusKoala_ZH-CN6942451940_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.EucalyptusKoala_ZH-CN6942451940",
+        "copyright": "桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%80%83%E6%8B%89\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "坚持重要的事情",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20250929_EucalyptusKoala%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "5dd434ee7e3ad6bbc55c800e42901c6a",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
