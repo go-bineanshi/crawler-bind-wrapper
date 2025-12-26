@@ -423,5 +423,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20251226": {
+        "startdate": "20251225",
+        "fullstartdate": "202512251600",
+        "enddate": "20251226",
+        "url": "/th?id=OHR.WiltshireDawn_ZH-CN2887906329_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.WiltshireDawn_ZH-CN2887906329",
+        "copyright": "索尔兹伯里大教堂，威尔特郡，英格兰 (© Julian Elliott Photography/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%8A%82%E7%A4%BC%E6%97%A5\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "打破盒子的传统",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20251225_WiltshireDawn%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "792b448f747e37023fd3190fb391b45c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
