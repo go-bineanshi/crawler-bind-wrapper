@@ -100,5 +100,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20260407": {
+        "startdate": "20260406",
+        "fullstartdate": "202604061600",
+        "enddate": "20260407",
+        "url": "/th?id=OHR.BeaverPortrait_ZH-CN4700069789_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.BeaverPortrait_ZH-CN4700069789",
+        "copyright": "河狸，德国 (© Andyworks/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=beaver+rodent\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "一根树枝，一点工程",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20260406_BeaverPortrait%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "127d39f2b06ac352cfbc108e92a2578b",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
