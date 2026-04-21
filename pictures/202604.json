@@ -338,5 +338,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20260421": {
+        "startdate": "20260420",
+        "fullstartdate": "202604201600",
+        "enddate": "20260421",
+        "url": "/th?id=OHR.SpringHedgehog_ZH-CN5232922916_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.SpringHedgehog_ZH-CN5232922916",
+        "copyright": "西欧刺猬，法国 (© Klein \u0026 Hubert/Nature Picture Library)",
+        "copyrightlink": "https://www.bing.com/search?q=%E8%A5%BF%E6%AC%A7%E5%88%BA%E7%8C%AC\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "春季的“带刺巡逻兵”",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20260420_SpringHedgehog%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "b6a40c116fc61ef7d4c33a45e0afe870",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
