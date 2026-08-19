@@ -304,5 +304,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20260819": {
+        "startdate": "20260818",
+        "fullstartdate": "202608181600",
+        "enddate": "20260819",
+        "url": "/th?id=OHR.WhyteCliffP_ZH-CN0573407830_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.WhyteCliffP_ZH-CN0573407830",
+        "copyright": "怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E6%80%80%E7%89%B9%E5%85%8B%E5%88%A9%E5%A4%AB%E5%85%AC%E5%9B%AD\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "浪潮间的通道",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20260818_WhyteCliffP%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "56e961f3c7cde21aa85441a363bab51c",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
