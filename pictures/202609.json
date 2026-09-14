@@ -219,5 +219,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20260914": {
+        "startdate": "20260913",
+        "fullstartdate": "202609131600",
+        "enddate": "20260914",
+        "url": "/th?id=OHR.KochiaChina_ZH-CN4719995421_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.KochiaChina_ZH-CN4719995421",
+        "copyright": "地肤田，中国 (© lingqi xie/Getty Images)",
+        "copyrightlink": "https://www.bing.com/search?q=%E5%9C%B0%E8%82%A4\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "坚韧在此扎根",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20260913_KochiaChina%22\u0026FORM=HPQUIZ",
+        "wp": true,
+        "hsh": "c4ce126fc7443a9885bd64539221a834",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
