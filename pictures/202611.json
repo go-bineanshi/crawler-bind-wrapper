@@ -304,5 +304,22 @@
         "top": 1,
         "bot": 1,
         "hs": []
+    },
+    "20261119": {
+        "startdate": "20261118",
+        "fullstartdate": "202611181600",
+        "enddate": "20261119",
+        "url": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_1920x1080.jpg\u0026rf=LaDigue_1920x1080.jpg\u0026pid=hp",
+        "urlbase": "/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853",
+        "copyright": "雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)",
+        "copyrightlink": "https://www.bing.com/search?q=%E4%B8%96%E7%95%8C%E5%93%B2%E5%AD%A6%E6%97%A5\u0026form=hpcapt\u0026mkt=zh-cn",
+        "title": "思想在此成形",
+        "quiz": "/search?q=Bing+homepage+quiz\u0026filters=WQOskey:%22HPQuiz_20261118_KnowledgeSculpture%22\u0026FORM=HPQUIZ",
+        "wp": false,
+        "hsh": "6bf6c295d1f9662feed47a0b68e8da90",
+        "drk": 1,
+        "top": 1,
+        "bot": 1,
+        "hs": []
     }
 }
